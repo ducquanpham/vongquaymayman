@@ -325,6 +325,8 @@ img {
 .input-pass {
 	border: 1px solid lightgray;
 	padding: 10px;
+	font-size: 16px;
+	text-size-adjust: 100%;
 }
 
 /* box scroll*/
