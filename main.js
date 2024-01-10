@@ -101,7 +101,7 @@ function closeModal() {
 function checkPassword() {
     var password = document.getElementById('passwordInput').value;
     // pass
-    if (password === 'KH09013') {
+    if (password === 'KH10011') {
         $('.wheel__button').prop('disabled', false);
         alert('Chúc mừng bạn đăng nhập thành công.');
         closeModal();
